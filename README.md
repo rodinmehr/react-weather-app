@@ -1,3 +1,8 @@
+# React Weather App
+This is an app to fetch your desired city's weather.
+Just search the city and see today's wather as well as next few days forecast.
+See live demo here: [https://thunderous-maamoul-e91194.netlify.app/](https://thunderous-maamoul-e91194.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
